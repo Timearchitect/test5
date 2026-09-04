@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "538784464756",
+    "firebase_url": "https://api-integration-78585-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "api-integration-78585",
+    "storage_bucket": "api-integration-78585.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538784464756:android:6b18ee652e788ef7ff7621",
+        "android_client_info": {
+          "package_name": "com.timearchitect.test5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzs9sgGhEN1qD2aznHneUzd0Ka5bo8RWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
