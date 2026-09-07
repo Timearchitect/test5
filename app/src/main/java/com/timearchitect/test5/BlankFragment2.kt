@@ -20,7 +20,6 @@ class BlankFragment2 : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         var v: View = inflater.inflate(R.layout.fragment_blank2, container, false)
-
         var fl = v.findViewById<FrameLayout>(R.id.frame2) //funkar efter inflation
         return v
     }
